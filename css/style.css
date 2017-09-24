@@ -1,0 +1,13 @@
+.card-placeholder {
+	background: red;
+}
+
+.column {
+	float: left;
+	margin: 15px;
+	max-width: 33%;
+}
+
+.title {
+	margin: 15px;
+}
